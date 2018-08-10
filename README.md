@@ -1,4 +1,4 @@
-# docker-stack-symfony
+# docker-stack-laravel
 
 
 
